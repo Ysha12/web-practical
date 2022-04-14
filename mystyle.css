@@ -1,0 +1,96 @@
+.mydiv{
+    /* border: 1px solid; */
+    height: 592px;
+    width: 100%;
+    text-align: center;
+    margin-top: -10px;
+}
+.mydiv2{
+    /* border: 1px solid; */
+    font-size-adjust: 0.25;
+    margin-left: 290px;
+    margin-top: -40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#div2{
+    /* border: 1px solid; */
+    margin-top: 80px;
+}
+#img{
+    margin-left: 1050px;
+    margin-bottom: 40px;
+    /* margin-top: 100px; */
+}
+#advance{
+    margin-left: 1500px;
+}
+/* #menu {
+    width: 35px;
+    height: 5px;
+    background-color: black;
+    /* margin-left: -100px; 
+    margin-right: 9px 0;
+  } */
+#p1{
+    font-family: serif;
+    /* font-size-adjust: 0.5; */
+    /* font-kerning: 1.9; */
+    /* row-gap: 2000px; */
+    letter-spacing: -5.5px;
+}
+.g1{
+    font-size: 100px;
+}
+.o1{
+    font-size: 80px;
+}
+.l1{
+    font-size: 80px;
+}
+.ind{
+    font-size: 30px;
+    margin-top: 90px;
+    margin-right: 100px;
+    color: grey;
+    /* float: right; */
+    /* font-weight: 90px; */
+    
+}
+#g{
+    color: blue;
+}
+#o{
+    color: red;
+}
+#oo{
+    color: yellow;
+}
+#l{
+    color: green;
+}
+#txt{
+    height: 20px;
+    width:700px;
+}
+#inp{
+    width: 500px;
+    border-radius: 10px;
+    height: 20px;
+}
+/* float picture.html */
+#pic{
+    border: 1px solid;
+    height: 250px;
+    width: 800px;
+    margin-left: 250px;
+    /* margin-right: 20px; */
+}
+#coff{
+    height: 80px;
+    width: 70px;
+    margin-left: 727px;
+    margin-top: 3px;
+}
+#txt{
+    margin-top: -75px;
+}
